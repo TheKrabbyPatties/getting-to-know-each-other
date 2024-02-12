@@ -2,7 +2,7 @@
 This is the base website for our organization's portfolio.
 
 ## Author(s)
-Logan Prasczewicz
+Josh Brown, Kevin Danowski, Olivia Adamic, Logan Prasczewicz, Emilio Vilchis, Justin Cordero
 
 ## Credits
 Credits to GitHub and GitPages for hosting the site.
