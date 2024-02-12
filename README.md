@@ -5,7 +5,7 @@ This is the base website for our organization's portfolio.
 Josh Brown, Kevin Danowski, Olivia Adamic, Logan Prasczewicz, Emilio Vilchis, Justin Cordero
 
 ## Credits
-Credits to GitHub and GitPages for hosting the site.
+Credits to GitHub, GitPages and Azure for hosting sites.
 
 ## License
 
