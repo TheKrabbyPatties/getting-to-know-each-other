@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.container, .header, .portfolio, .image {
+    margin: 10px;
+    text-align: center;
+    border: 2px solid grey;
+}
+
+.header {
+    border: none;
+}
+
+.container {
+    display: flex;
+    justify-content: start;
+    border: none;
+}
+
+.portfolio {
+    width: 20%;
+}
+
+.image {
+    width: 80%;
+    padding-left: 40px;
+}
+
+h1, h2 {
+    color: black;
+    text-shadow: 1px 1px 4px red, -1px -1px 4px blue, 1px -1px 4px pink, -1px 1px 4px orange;
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+    margin: 15px;
+}
