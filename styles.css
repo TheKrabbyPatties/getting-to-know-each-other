@@ -28,7 +28,7 @@ body {
 
 .image {
     width: 80%;
-    padding-left: 40px;
+    padding: 40px;
 }
 
 h1, h2 {
