@@ -42,7 +42,7 @@ h2 {
     margin: 15px;
 }
 
-#group_photo {
+.group_photo {
     max-width: 100%;
     height: auto;
 }
