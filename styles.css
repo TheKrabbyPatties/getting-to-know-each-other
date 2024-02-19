@@ -43,6 +43,6 @@ h2 {
 }
 
 #group_photo {
-    width: 500;
-    height: 400;
+    max-width: 100%;
+    height: auto;
 }
