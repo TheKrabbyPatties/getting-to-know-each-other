@@ -1,3 +1,12 @@
+@font-face {
+    font-family: 'Cascadia'; 
+    src: url('Cascadia.ttf') format('truetype'); 
+  }
+
+* {
+    font-family: 'Cascadia'
+}
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: black;
@@ -6,16 +15,38 @@ body {
     color: white;
 }
 
-.container, .header, .portfolio, .image {
+.container, .portfolio, .image {
     margin: 10px;
     text-align: center;
     border: 2px solid grey;
+
+
 }
 
 .header {
     border: none;
-}
+    text-align: center;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    padding: 20px; 
+  }
+  
+  .header-svg img {
+    width: 50px; 
+    height: auto; 
+  }
+  
+  .header-svg h1 {
+    margin-right: 30px;
+    margin-left: 30px; 
+  }
 
+  .header-svg img:last-child {
+    margin-right: 0; /* Remove margin from the last image */
+  }
+
+  
 .container {
     display: flex;
     justify-content: start;
