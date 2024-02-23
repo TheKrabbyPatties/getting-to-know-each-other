@@ -6,7 +6,9 @@ Josh Brown, Kevin Danowski, Olivia Adamic, Logan Prasczewicz, Emilio Vilchis, Ju
 
 ## Credits
 - Credits to GitHub, GitPages, and Azure for hosting sites.
-- <a href="https://www.flaticon.com/free-stickers/error" title="error stickers">Error stickers created by Stickers Flaticon</a>
+- Images sourced from these links: 
+-- <a href= https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Krabby_Patty.png/512px-Krabby_Patty.png>https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Krabby_Patty.png/512px-Krabby_Patty.png</a>
+-- <a href= https://custom-cursor.com/en/collection/spongebob/sb-spatula-and-krabby-patty>https://custom-cursor.com/en/collection/spongebob/sb-spatula-and-krabby-patty</a>
 
 ## License
 
