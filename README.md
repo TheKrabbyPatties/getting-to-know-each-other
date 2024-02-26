@@ -11,7 +11,7 @@ Josh Brown, Kevin Danowski, Olivia Adamic, Logan Prasczewicz, Emilio Vilchis, Ju
 -- <a href= https://custom-cursor.com/en/collection/spongebob/sb-spatula-and-krabby-patty>https://custom-cursor.com/en/collection/spongebob/sb-spatula-and-krabby-patty</a>
 
 ## License
-
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Execute Instructions
 Executable as an HTML file or through URL.
