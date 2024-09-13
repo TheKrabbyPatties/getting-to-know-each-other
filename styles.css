@@ -97,7 +97,6 @@ button {
 }
 
 button:hover {
-    font-family: arial;
     background-color: black;
     color: white;
 }
